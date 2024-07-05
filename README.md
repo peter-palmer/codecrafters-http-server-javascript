@@ -1,5 +1,6 @@
 [![progress-banner](https://backend.codecrafters.io/progress/http-server/de640400-1099-4ce8-97c9-9c9514b86d64)](https://app.codecrafters.io/users/wjsvec?r=2qF)
 
+
 This is a starting point for JavaScript solutions to the
 ["Build Your Own HTTP server" Challenge](https://app.codecrafters.io/courses/http-server/overview).
 
